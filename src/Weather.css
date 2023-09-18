@@ -24,3 +24,6 @@
   top: -32px;
   margin-left: 0px;
 }
+.Weather li {
+    list-style: none;
+}
