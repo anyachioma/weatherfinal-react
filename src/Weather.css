@@ -1,0 +1,9 @@
+.Weather{
+    font-family: Arial, sans-serif;
+    border: 1px solid #dadde1;
+    padding: 16px;
+    margin: 30px auto;
+    border-radius: 4px;
+    background-image: url("https://images.pexels.com/photos/2958293/pexels-photo-2958293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    
+}  
