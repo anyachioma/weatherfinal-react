@@ -5,7 +5,7 @@
   margin: 30px auto;
   border-radius: 4px;
   box-shadow: 5px 5px 5px #c1c1c1;
-  background-image: url("https://images.pexels.com/photos/9706838/pexels-photo-9706838.jpeg?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=1?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=2");
+  background-image: url("https://images.pexels.com/photos/9706838/pexels-photo-9706838.jpeg?auto=compress&cs=tinysrgb&w=1100&h=440&dpr=1?auto=compress&cs=tinysrgb&w=1100&h=440&dpr=2");
 }
 .Weather h1 {
   font-weight: bold;
@@ -34,9 +34,9 @@
   padding: 0;
 }
 .Weather .info-weather {
-    font-size: 18px;
-    margin: 10px;
-    padding: -10px;
+  font-size: 18px;
+  margin: 10px;
+  padding: -10px;
 }
 .Weather li {
   list-style: none;
@@ -45,4 +45,9 @@
   margin-right: 5px;
   margin-top: 5px;
   display: inline-block;
+}
+.Weather footer {
+  font-size: 15px;
+  color: #000;
+  margin-top: 15px;
 }
