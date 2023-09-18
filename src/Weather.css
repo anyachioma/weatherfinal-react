@@ -1,28 +1,26 @@
-.Weather{
-    font-family: Arial, sans-serif;
-    border: 1px solid #dadde1;
-    padding: 16px;
-    margin: 30px auto;
-    border-radius: 4px;
-    background-image: url("https://images.pexels.com/photos/2958293/pexels-photo-2958293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    
-}  
+.Weather {
+  font-family: Arial, sans-serif;
+  border: 1px solid #dadde1;
+  padding: 16px;
+  margin: 30px auto;
+  border-radius: 4px;
+  background: linear-gradient(to top, #b0a0b9 0%, #f58ad1 100%);
+  background-image: url("https://images.pexels.com/photos/9706838/pexels-photo-9706838.jpeg?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=1?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=2");
+}
 .Weather .temperature {
-    font-weight: bold;
-    font-size: 64px;
-    color: rgb(33,33,33);
-    line-height: 64px;
-    font-weight: 400;
-
+  font-weight: bold;
+  font-size: 64px;
+  color: rgb(33, 33, 33);
+  line-height: 64px;
+  font-weight: 400;
 }
 
 .Weather .unit {
-    color: rgb(33, 33, 33);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1;
-    position: relative;
-    top: -32px;
-    margin-left: 0px;
-
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  position: relative;
+  top: -32px;
+  margin-left: 0px;
 }
