@@ -24,10 +24,10 @@
   top: -32px;
   margin-left: 0px;
 }
-.Weather .InfoWeather{
-margin: 0;
-padding: 0;
+.Weather .InfoWeather {
+  margin: 0;
+  padding: 0;
 }
 .Weather li {
-    list-style: none;
+  list-style: none;
 }
