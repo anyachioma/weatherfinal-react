@@ -4,7 +4,6 @@
   padding: 16px;
   margin: 30px auto;
   border-radius: 4px;
-  background: linear-gradient(to top, #b0a0b9 0%, #f58ad1 100%);
   background-image: url("https://images.pexels.com/photos/9706838/pexels-photo-9706838.jpeg?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=1?auto=compress&cs=tinysrgb&w=1100&h=400&dpr=2");
 }
 .Weather .temperature {
