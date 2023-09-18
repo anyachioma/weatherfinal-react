@@ -66,7 +66,7 @@ export default function Weather(props) {
         <footer>
           This project was coded by{" "}
           <a
-            href="https//www.linkedin.com/in/mfonobong-nnamseh-46529272"
+            href="https://github.com/anyachioma"
             target="blank"
             rel="noopener noreferrer"
           >
